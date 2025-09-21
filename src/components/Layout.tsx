@@ -18,7 +18,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                 <span className="text-white font-bold text-lg">शि</span>
               </div>
               <div>
-                <h1 className="text-xl font-bold text-gray-900">ShilpKaar</h1>
+                <h1 className="text-xl font-bold text-gray-900">Astroflux</h1>
                 <p className="text-sm text-gray-600 hidden sm:block">AI Assistant for Artisans</p>
               </div>
             </div>
